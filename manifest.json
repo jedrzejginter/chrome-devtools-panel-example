@@ -1,0 +1,8 @@
+{
+  "manifest_version" : 2,
+  "name" : "Jedrzej Ginter Dev Tools",
+  "version" : "0.1",
+  "description" : "Frontend Developer Tools for Jedrzej Ginter",
+  "author" : "Jedrzej Ginter",
+  "devtools_page" : "devtools.html"
+}
